@@ -4,16 +4,16 @@
 	branch = v1.1.4
 [submodule "third_party/rapidcsv"]
 	path = third_party/rapidcsv
-	url = git@github.com:d99kris/rapidcsv.git
+	url = https://github.com/d99kris/rapidcsv.git
 	branch = master
 [submodule "third_party/googletest"]
 	path = third_party/googletest
-	url = git@github.com:google/googletest.git
+	url = https://github.com/google/googletest.git
 	branch = main
 [submodule "third_party/eigen"]
 	path = third_party/eigen
-	url = git@github.com:libigl/eigen.git
+	url = https://github.com/libigl/eigen.git
 	branch = main
 [submodule "third_party/yaml-cpp"]
 	path = third_party/yaml-cpp
-	url = git@github.com:jbeder/yaml-cpp.git
+	url = https://github.com/jbeder/yaml-cpp.git
